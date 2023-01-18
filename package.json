@@ -1,0 +1,16 @@
+{
+  "name": "atelierjs",
+  "version": "1.0.0",
+  "description": "une application pour gerer une liste des produits",
+  "main": "atelier.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node atelier.js"
+  },
+  "keywords": [
+    "javascript",
+    "mvc"
+  ],
+  "author": "2cinfo2",
+  "license": "ISC"
+}
